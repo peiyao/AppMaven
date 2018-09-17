@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke Test">
+	<test name = "test case">
+<packages>
+<package name="MavenTask"/>
+
+		<classes>
+		<class name="MavenTask.BobcatSuite"/>
+		
+		
+		</classes>
+	
+		
+
+</packages>
+	</test>
+</suite>
